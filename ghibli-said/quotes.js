@@ -7,9 +7,10 @@ fetch(requestUrl)
          return response.json();
         })
         .then(function (data) {
+            console.log(data)
           for (var i = 0; i < data.length; i++) {
             var listQuote = document.createElement('p');
-            listQuote.textContent = data[i].quote  
+            listQuote.textContent = data[i].quote;
             
         }
     })
