@@ -5,35 +5,62 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="https://mdbootstrap.com/docs/standard/navigation/navbar/#subsection-dropdown">
+      <!-- Font Awesome -->
+      <link
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        rel="stylesheet"
+      />
+      <!-- Google Fonts -->
+      <link
+        href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+        rel="stylesheet"
+      />
+      <!-- MDB -->
+      <link
+        href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.css"
+        rel="stylesheet"
+      />
     <title>Waifu Said</title>
     <link rel="shortcut icon" type="image/jpg" href="https://data.whicdn.com/images/8153665/original.jpg"/>
 </head>
 <body>
-    <nav class="navbar">
-        <div class="container">
-          <p class="search">Search By:</p>
-          <div class="collapse" id="nav">
-            <ul class="ul">
-              <li class="nav-item">
-                <a class="character" aria-current="page" href="#">Character</a>
-              </li>
-              <li class="nav-item">
-                <a class="series" href="#">Series</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-    </nav>
+  <nav class="navbar navbar-light bg-light">
+    <div class="container-fluid">
+      <form class="d-flex input-group w-auto">
+        <input
+          type="search"
+          class="form-control rounded"
+          placeholder="Search"
+          aria-label="Search"
+          aria-describedby="search-addon"
+        />
+        <span class="input-group-text border-0" id="search-addon">
+          <i class="fas fa-search"></i>
+        </span>
+      </form>
+    </div>
+  </nav>
     <header class="header">
         <h1>Welcome to Waifu Said!</h1>
             <p>Random quotes from your beloved Waifu!! ❤️</p>
     </header>
+
+    <!-- <div class="row">
+      <div class="col-sm-6 col-lg-8">.col-sm-6 .col-lg-8</div>
+      <div class="col-6 col-lg-4">.col-6 .col-lg-4</div>
+    </div>
+    <div class="row">
+      <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
+      <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
+      <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
+    </div>  -->
+
     <button class="generate">Generate Quote</button>
     <footer class="footer">
         <p>&copy; gang-gang 2021</p>
     </footer>
 <script src="./script.js"></script>
 <script src="./quotes.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.js"></script>
 </body>
 </html>
