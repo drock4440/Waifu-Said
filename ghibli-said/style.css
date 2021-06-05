@@ -7,3 +7,8 @@
     display: block;
     text-align: center;
 }
+
+.footer p {
+    font-size: small;
+    text-align: center;
+}
