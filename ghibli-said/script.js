@@ -37,4 +37,4 @@ fetch('https://api.waifu.pics/sfw/cry')
 
 fetch('https://api.waifu.pics/sfw/hug')
   .then(response => response.json())
-  .then(quote => console.log(quote))cd 
+  .then(quote => console.log(quote)) 
