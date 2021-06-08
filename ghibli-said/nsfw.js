@@ -1,10 +1,10 @@
-var nsfwBtn = document.getElementById("nsfwBtn")
+
 var waifuPic = document.getElementById("waifuPic")  
 var contentSection = document.getElementById('content')
   genBtn.addEventListener('click', getImage)
   genBtn.addEventListener('click', getQuote)
    function getImage (){
-     fetch('https://api.waifu.pics/sfw/waifu')
+     fetch('https://api.waifu.pics/nsfw/blowjob')
   .then(function(response){
     return response.json ()
   })
@@ -40,7 +40,3 @@ fetch('https://animechan.vercel.app/api/random')
     })
 }
 
-function switchNSFW (){
-  window.location.assign("nsfw.html")
-}
-nsfwBtn.addEventListener('click', switchNSFW)
