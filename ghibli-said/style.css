@@ -1,9 +1,21 @@
 * {
-    background-color: rgb(150, 110, 187);
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px black;
 }
 
 .header {
+    padding-top: 25px;
     display: block;
     text-align: center;
+    border:rgba(229, 207, 250, 0.845)
+}
+#content {
+    font-family: 'Dancing Script', cursive;
+    font-size: 300%;
+}
+#waifuPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
