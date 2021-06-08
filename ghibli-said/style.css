@@ -22,3 +22,7 @@
     margin-right: auto;
     margin-bottom: 10px;
 }
+#quotes {
+    font-family: 'Dancing Script', cursive;
+    list-style: none;
+  }
