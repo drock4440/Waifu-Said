@@ -31,6 +31,7 @@ fetch('https://animechan.vercel.app/api/random')
         console.log(listQuote)
         var addH1 = document.createElement('h1');
         
+        contentSection.innerHTML = ""
         contentSection.appendChild(addH1)
         contentSection.append(listQuote)
 
