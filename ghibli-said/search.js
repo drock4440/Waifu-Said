@@ -1,8 +1,17 @@
-var input = document.getElementById('form1')
+var searchBar = document.getElementById('searchBar')
+const animeCharacters = []
+var searchBtn = document.getElementById('search-button')
+var input = document.getElementById('search-input')
+var charName = input.value
 
 
-fetch('https://animechan.vercel.app/api/quotes/character?name=saitama')
-      .then(response => response.json())
-      .then(quotes => console.log(quotes))
+function getByChar (charName) {
+            let queryUrl = "https://animechan.vercel.app/api/quotes/character?name=" + charName 
+            fetch(queryUrl)
+            .then (function(response){
+            console.log(response);
+      })
     
-      console.log(input.value)
+    }
+
+searchBtn.addEventListener('click', getByChar)
