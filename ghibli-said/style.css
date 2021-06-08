@@ -10,3 +10,7 @@
     text-align: center;
     border:rgba(229, 207, 250, 0.845)
 }
+#modaltext {
+    color: black;
+    font-family: 'Press Start 2P', cursive;
+}
