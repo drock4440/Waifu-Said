@@ -1,3 +1,5 @@
+  
+var waifuPic = document.getElementById("waifuPic")  
   genBtn.addEventListener('click', getImage)
    function getImage (){
      fetch('https://api.waifu.pics/sfw/waifu')
@@ -12,7 +14,7 @@
     waifuPic.setAttribute("height", "500");
     waifuPic.setAttribute("width", "300");
     waifuPic.setAttribute("alt", "Waifu");
-    document.getElementById("waifuPic") .append();
+   
   
   })
 }
