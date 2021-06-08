@@ -10,3 +10,7 @@
     text-align: center;
     border:rgba(229, 207, 250, 0.845)
 }
+#content {
+    font-family: 'Dancing Script', cursive;
+    font-size: 300%;
+}
