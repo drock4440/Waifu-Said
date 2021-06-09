@@ -1,30 +1,42 @@
-# Waifu Said
-Waifu said is an interactive random waifu picture and quote generator, we have an NSFW section too so children beware.
-## Technologies used
+## WaifuSaid
 -----
-we used vanilla Js, jQuery, HTML,CSS and MDBootstrap.
-## Why we made this
+WaifuSaid is an interactive random generator web application that presents the user with an image of a random waifu accompanied by random quote from over 700 different anime series.
 -----
-we wanted to try something different “unique”to our group, we knew we wanted to do an anime related application because we knew we had a plethora of API’s we can make calls to and make something diiferent.
+## Technologies & Resources
+-----
+This application utilizes Vanilla JS, HTML,CSS languages as well as jQuery, MDBootstrap, and MaterializeCSS libraries.
+-----
+## Our Goal
+-----
+We wanted to build something unique to the interests of our group. With our first porject proposal failing we knew we wanted to write an anime related application and after reviewing the many available APIs pertaining to the subject we found this to be a fun and interesting idea that would help us expand and strengthen our skills we've learned thus far in the bootcamp.
+-----
 ## User story
 -----
-When I click the generate button,
-Then I want to be shown a random quote from an anime show.
-When I read the quote,
-Then I want be shown a random waifu.
-When I use the searchbar option,
-Then I want to search for quotes via Anime or Character name.
+WHEN I click the generate button,
+THEN I want to be shown a quote from a random anime series and an image of a random waifu.
+WHEN I click the generate button again,
+THEN I want to be shown a NEW quote from a random anime series and NEW image of a random waifu.
+WHEN I use the search the character or anime series name,
+THEN I want a random quote corresponding to my search.
 ## Our Links
-----
-Our github repo is:
-https://github.com/drock4440/Waifu-Said
-Our github pages link for our app is:
-## We got gifs
 -----
+# GitHub Repo:
+
+https://github.com/drock4440/Waifu-Said
+
+# Live Application Link:
+
+
+-----
+
+## Application Use:
+-----
+
 ![WaifuSaid demo](https://media.giphy.com/media/hxx5jAI0dC3GKmpkp9/giphy.gif)
 ![WaifuSaidnsfw demo](https://media.giphy.com/media/DZY4bFufDcA5MXidR8/giphy.gif)
+
 ### License
-----
+-----
 this application is licensed under the terms of the MIT license.
 GitHubGitHub
 drock4440/Waifu-Said
