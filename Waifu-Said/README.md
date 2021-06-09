@@ -12,12 +12,12 @@ We wanted to build something unique to the interests of our group. With our firs
 
 ## User story
 -----
-*WHEN I click the generate button,
-*THEN I want to be shown a quote from a random anime series and an image of a random waifu.
-*WHEN I click the generate button again,
-*THEN I want to be shown a NEW quote from a random anime series and NEW image of a random waifu.
-*WHEN I use the search the character or anime series name,
-*THEN I want a random quote corresponding to my search.
+* WHEN I click the generate button,
+* THEN I want to be shown a quote from a random anime series and an image of a random waifu.
+* WHEN I click the generate button again,
+* THEN I want to be shown a NEW quote from a random anime series and NEW image of a random waifu.
+* WHEN I use the search the character or anime series name,
+* THEN I want a random quote corresponding to my search.
 ## Our Links
 -----
 # GitHub Repo:
