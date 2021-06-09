@@ -4,7 +4,7 @@ WaifuSaid is an interactive random generator web application that presents the u
 
 ## Technologies & Resources
 -----
-This application utilizes Vanilla JS, HTML,CSS languages as well as jQuery, MDBootstrap, and MaterializeCSS libraries.
+This application utilizes Vanilla JS, HTML, and CSS languages as well as jQuery, MDBootstrap, and MaterializeCSS libraries.
 
 ## Our Goal
 -----
