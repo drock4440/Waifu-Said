@@ -24,10 +24,10 @@ We wanted to build something unique to the interests of our group. With our firs
 
 https://github.com/drock4440/Waifu-Said
 
-# Live Application Link:
+# Live Deployment:
 
+https://drock4440.github.io/waifu-said/
 
------
 
 ## Application Use:
 -----
