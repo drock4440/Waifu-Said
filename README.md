@@ -8,7 +8,7 @@ This application utilizes Vanilla JS, HTML, and CSS languages as well as jQuery,
 
 ## Our Goal
 -----
-We wanted to build something unique to the interests of our group. With our first porject proposal failing we knew we wanted to write an anime related application and after reviewing the many available APIs pertaining to the subject we found this to be a fun and interesting idea that would help us expand and strengthen our skills we've learned thus far in the bootcamp.
+We wanted to build something unique to the interests of our group. With our first project proposal failing we knew we wanted to write an anime related application and after reviewing the many available APIs pertaining to the subject we found this to be a fun and interesting idea that would help us expand and strengthen our skills we've learned thus far in the bootcamp.
 
 ## User Story
 -----
