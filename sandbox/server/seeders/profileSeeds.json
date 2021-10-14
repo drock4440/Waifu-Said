@@ -1,0 +1,118 @@
+[
+  {
+    "fName": "Brian",
+    "lName": "Kernighan",
+    "locCity": "Denver",
+    "locState": "Colorado",
+    "age": "25",
+    "email": "bkernighan@techfriends.dev",
+    "password": "password",
+    "hobbies": ["AWK", "AMPL", "Unix"]
+  },
+  {
+    "fName": "Max",
+    "lName": "Kanat-Alexander",
+    "locCity": "Limon",
+    "locState": "Colorado",
+    "age": "26",
+    "email": "mkanatalexander@techfriends.dev",
+    "password": "password",
+    "hobbies": ["Java", "Perl", "Apache", "Python"]
+  },
+  {
+    "fName": "Amiko",
+    "lName": "Soto",
+    "locCity": "Little Rock",
+    "locState": "Arkansas",
+    "age": "27",
+    "email": "amiko@techfriends.dev",
+    "password": "password",
+    "hobbies": ["NodeJS", "MySQL", "MongoDB", "React", "CSS-in-JS"]
+  },
+  {
+    "fName": "Kent",
+    "lName": "Beck",
+    "locCity": "Laramie",
+    "locState": "Wyoming",
+    "age": "28",
+    "email": "kbeck@techfriends.dev",
+    "password": "password",
+    "hobbies": [
+      "Test-Driven Development",
+      "Extreme Programming",
+      "Software Design Patterns",
+      "JUnit"
+    ]
+  },
+  {
+    "fName": "Edward",
+    "lName": "Berard",
+    "locCity": "Laramie",
+    "locState": "Wyoming",
+    "age": "29",
+    "email": "evberard@techfriends.dev",
+    "password": "password",
+    "hobbies": ["Object-Oriented Design"]
+  },
+  {
+    "fName": "Alan",
+    "lName": "Kay",
+    "locCity": "Colorado City",
+    "locState": "Colorado",
+    "age": "29",
+    "email": "akay@techfriends.dev",
+    "password": "password",
+    "hobbies": [
+      "Graphical User Interface (GUI) Design",
+      "Jazz Guitar",
+      "Education"
+    ]
+  },
+  {
+    "fName": "C.A.R.",
+    "lName": "Hoare",
+    "locCity": "Pueblo",
+    "locState": "Colorado",
+    "age": "30",
+    "email": "choare@techfriends.dev",
+    "password": "password",
+    "hobbies": ["Algorithms", "Quicksort", "Hoare Logic"]
+  },
+  {
+    "fName": "David",
+    "lName": "Thomas",
+    "locCity": "Pueblo",
+    "locState": "Colorado",
+    "age": "31",
+    "email": "dthomas@techfriends.dev",
+    "password": "password",
+    "hobbies": ["Author", "Code Kata", "Ruby", "Pragmatic Programming"]
+  },
+  {
+    "fName": "Donald",
+    "lName": "Knuth",
+    "locCity": "New York City",
+    "locState": "New York",
+    "age": "32",
+    "email": "dknuth@techfriends.dev",
+    "password": "password",
+    "hobbies": ["TeX Computer Typesetting", "Algorithms", "Author"]
+  },
+  {
+    "fName": "Lernantino",
+    "lName": "Jasper",
+    "locCity": "Boston",
+    "locState": "Massachusetts",
+    "age": "33",
+    "email": "lernantino@techfriends.dev",
+    "password": "password",
+    "hobbies": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Design Systems",
+      "Typescript",
+      "PWAs"
+    ]
+  }
+]
